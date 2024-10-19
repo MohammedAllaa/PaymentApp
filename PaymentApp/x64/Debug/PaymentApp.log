@@ -1,0 +1,28 @@
+﻿  Application.c
+D:\PaymentApp\PaymentApp\Application\Application.c(35,9): warning C4013: 'getTransactionDate' undefined; assuming extern returning int
+D:\PaymentApp\PaymentApp\Application\Application.c(53,35): warning C4047: 'function': 'ST_accountsDB_t *' differs in levels of indirection from 'ST_accountsDB_t **'
+D:\PaymentApp\PaymentApp\Application\Application.c(53,35): warning C4024: 'isValidAccount': different types for formal and actual parameter 2
+D:\PaymentApp\PaymentApp\Application\Application.c(11,1): error C1075: '{': no matching token found
+  Card.c
+  main.c
+D:\PaymentApp\PaymentApp\Card\Card.c(11,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PaymentApp\PaymentApp\Card\Card.c(28,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PaymentApp\PaymentApp\Card\Card.c(45,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Server.c
+D:\PaymentApp\PaymentApp\Server\Server.c(14,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PaymentApp\PaymentApp\Server\Server.c(19,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PaymentApp\PaymentApp\Server\Server.c(23,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PaymentApp\PaymentApp\Server\Server.c(28,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PaymentApp\PaymentApp\Server\Server.c(33,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PaymentApp\PaymentApp\Server\Server.c(37,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PaymentApp\PaymentApp\Server\Server.c(115,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PaymentApp\PaymentApp\Server\Server.c(131,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PaymentApp\PaymentApp\Server\Server.c(146,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PaymentApp\PaymentApp\Server\Server.c(196,21): warning C4101: 'accountRefrence': unreferenced local variable
+D:\PaymentApp\PaymentApp\Server\Server.c(243,70): warning C4244: '=': conversion from 'uint23_t' to 'uint8_t', possible loss of data
+  Terminal.c
+D:\PaymentApp\PaymentApp\Terminal\Terminal.c(13,25): warning C4013: 'strlen' undefined; assuming extern returning int
+D:\PaymentApp\PaymentApp\Terminal\Terminal.c(137,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PaymentApp\PaymentApp\Terminal\Terminal.c(197,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PaymentApp\PaymentApp\Terminal\Terminal.c(230,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
